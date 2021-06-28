@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/ashish-gautam-316b4117b">
   <img align="left" alt="Ash Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/ashgautamDev">
   <img align="left" alt="Ash Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
