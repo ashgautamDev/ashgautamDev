@@ -21,6 +21,7 @@
 
 
 
-- 🔭 I’m currently final yr Undergraduate 
-- 🌱 I’m currently learning more about Jetpack Compose, Crypto, Android development(Forever).
-- ⚡ Fun fact: If I am not coding then I am fighting with younger brother .
+- 🔭 I’m currently final year Enginnering Student.
+- 📱 I'am android developer forever. 
+- 🌱 I’m currently learning more about Jetpack Compose, Crypto .
+- ⚡ Fun fact: If ( ! coding) `fighting with yonger brother`.
