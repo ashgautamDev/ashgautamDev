@@ -9,8 +9,8 @@
 
 
 
-- 🔭 I’m currently final year Enginnering Student.
-- 📱 I'am android developer forever. 
+- 🎓 I’m computer science graduate.
+- 📱 I'am android developer enthusiast. 
 - 🌱 I’m currently learning more about Jetpack Compose, Crypto .
 - ⚡ Fun fact: If ( ! coding) `fighting with younger brother`.
 
